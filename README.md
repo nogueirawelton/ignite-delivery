@@ -7,7 +7,7 @@
 
 ## 💻 Projeto
 
-Aplicação de Delivery
+Aplicação de Delivery.
 
 ## ✨ Tecnologias
 
